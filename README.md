@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/voyageHu/smart-ui/actions/workflows/main.yml">
-        <img src="https://github.com/voyageHu/smart-ui/actions/workflows/main.yml/badge.svg?branch=main" />
+    <a href="https://github.com/voyageHu/commonUI/actions/workflows/main.yml">
+        <img src="https://github.com/voyageHu/commonUI/actions/workflows/main.yml/badge.svg?branch=main" />
     </a>
 </p>
