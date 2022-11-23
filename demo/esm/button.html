@@ -1,0 +1,18 @@
+<h1>Demo</h1>
+<div id="app"></div>
+<script type="module">
+    import { createApp } from "vue/dist/vue.esm-bundler.js";
+    import CommonUI, { SFCButton, JSXButton, MyButton } from "../../dist/common-ui.mjs"
+
+    createApp({
+        template: `
+        <SButton/>
+        <JSXButton/>
+        <SFCButton/>
+        `,
+            })
+        .component(SFCButton.name, SFCButton)
+        .component(JSXButton.name, JSXButton)
+        .component(MyButton.name, MyButton)
+        .mount("#app");
+</script>
