@@ -8,5 +8,3 @@ coverage
 *.ttf
 src/index.ts
 dist
-demo
-*.d.ts

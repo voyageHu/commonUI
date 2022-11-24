@@ -1,11 +1,8 @@
 <template>
   <button>SFC Button</button>
 </template>
-
 <script lang="ts">
-import { defineComponent } from "vue";
-
-export default defineComponent({
+export default {
   name: "SFCButton",
-});
+};
 </script>
